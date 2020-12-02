@@ -144,7 +144,7 @@ body {
     color: #00ddee;
 }
 
-.btn-oval-y{
+.btn-oval-y {
     background-color:#333;
     color: #00ddee;
     padding: 10px 5px;
@@ -172,6 +172,12 @@ body {
     background-color:#292929;
     transition: color 2s ,background 2s;
     transition-delay: 1s;
+}
+
+#footer{
+    display:flex;
+    justify-content:center;
+    margin:15px;
 }
 
 @keyframes flash{
