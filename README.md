@@ -4,7 +4,7 @@ This project contains the full featured game created by following the official [
 
 It features additional CSS designs and rules to make the game have an arcade style look and feel.
 
-[](https://github.com/hugovicfortman/tic-tac-toe/blob/main/tic-tac-toe.webp)
+![Tic Tac Toe](https://github.com/hugovicfortman/tic-tac-toe/blob/main/tic-tac-toe.webp)
 
 
 ## Getting Started with Create React App
