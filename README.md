@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Tic Tac Toe
+
+This project contains the full featured game created by following the official [Intro to React tutorial](https://reactjs.org/tutorial/tutorial.html).
+
+It features additional CSS designs and rules to make the game have an arcade style look and feel.
+
+[](https://github.com/hugovicfortman/tic-tac-toe/blob/main/tic-tac-toe.webp)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
